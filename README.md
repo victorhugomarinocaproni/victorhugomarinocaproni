@@ -15,7 +15,7 @@ developing some Data Bases.
 
 # 🔧 Technologies I've used:
 
-<img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/c8244c67-1d1a-4f30-8e7e-d4317087b4e7' alt='html' height='40'>
+<img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/c8244c67-1d1a-4f30-8e7e-d4317087b4e7' alt='html' height='44'>
 <img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/fc19694f-5be5-448f-b0b2-7b721b08229b' alt='css' height='40'>
 <img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/b753a6fc-3047-4130-9fa8-bdb5cbd95ac0' alt='javascript' height='40'>
 <img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/d0721141-b7eb-4ef5-8fa5-a7e46403375e' alt='nodejs' height='40'>
@@ -25,6 +25,8 @@ developing some Data Bases.
 <img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/9d61b4d7-fc45-417f-a6c0-97abb5599b2d' alt='mysql' height='40'>
 <img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/6ba8992c-0243-46bf-b262-02b6712ba600' alt='github' height='40'>
 
+# 🚧 My personal portfolio page:
+* Under Construction. . .
 # Let's chat:
 <div>
 <a href = "mailto:victorcaproni04@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
