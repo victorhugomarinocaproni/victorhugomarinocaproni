@@ -25,8 +25,7 @@ developing some Data Bases.
 <img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/9d61b4d7-fc45-417f-a6c0-97abb5599b2d' alt='mysql' height='40'>
 <img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/6ba8992c-0243-46bf-b262-02b6712ba600' alt='github' height='40'>
 
-# Contatos:
-
+# Let's chat:
 <div>
 <a href = "mailto:victorcaproni04@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/victor-hugo-marino-caproni-30443a250/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
