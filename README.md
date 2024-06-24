@@ -10,8 +10,8 @@ I like discovering new things, meeting new people and also developing innovative
 Besides that, I do like programming, playing online games and also listening to music. Also, my disere is to become a Full-stack engineer, so I'm really into Front-end programming, Back-end programming and 
 developing some Data Bases. 
 * Currently: Student
-* Studying Now: React and Java
-* Aim: Full-stack Engineer
+* Studying Now: Java/Kotlin and Android Development 
+* Aim: Software Engineer 
 
 # 🔧 Technologies I've used:
 
