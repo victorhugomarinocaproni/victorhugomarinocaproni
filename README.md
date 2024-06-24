@@ -24,11 +24,10 @@ developing some Data Bases.
 <img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/db095a4f-0d9f-4ca1-982c-e7d62bd4af1c' alt='linguagem c' height='40'>
 <img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/9d61b4d7-fc45-417f-a6c0-97abb5599b2d' alt='mysql' height='40'>
 <img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/6ba8992c-0243-46bf-b262-02b6712ba600' alt='github' height='40'>
-<img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/a4bb4cda-4647-4cdf-87be-36b2c0b43d97' alt='c++' height='40'>
 <img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/8f06bdc6-939d-489e-b098-a3e23c99e27d' alt='java' height='40'>
 <img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/473f7d4d-5287-41ce-8c91-87f38654a729' alt='kotlin' height='40'>
-<img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/a7e16587-9fd8-496a-86fc-df74af7a4afa' alt='android' height='40'>
-<img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/08c7fadd-53c7-4c7e-82ad-9b00ade11dd1' alt='firebase' height='40'>
+<img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/010d5fac-9b66-4ac8-a4ca-af25be78a555' alt='android' height='40'>
+<img src='https://github.com/victorhugomarinocaproni/victorhugomarinocaproni/assets/113490368/92cd56cd-a642-47f1-97ba-72870f2c393a' alt='firebase' height='40'>
 
 # 🚧 My personal portfolio page:
 * Under Construction. . .
